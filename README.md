@@ -17,6 +17,9 @@ Career Goals
 I'm seeking opportunities in IT that involve technical problem-solving while leveraging my strengths in customer service and administration. If you're looking for someone with a mix of technical expertise and people skills, feel free to reach out on the email below!
 
 Happy coding! 🚀
+
 Cheers,
+
 Ben Dempsey
+
 ben@bensbestbytes.com
