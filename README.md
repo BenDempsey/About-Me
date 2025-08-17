@@ -5,7 +5,7 @@ Certifications:
 I hold the following certifications:
 Certificate III in Information and Communications Technology at TAFE Qld
 Certificate IV in Cyber Security at TAFE Qld
-TryHackMe Certifications: Various achievements on TryHackMe – https://tryhackme.com/p/b1tfl1pper
+TryHackMe Certifications: Various achievements on TryHackMe – https://tryhackme.com/p/B1tf1ip0R
 
 Current Focus:
 I'm currently diving into website development. While my courses covered the basics, I felt I needed more hands-on experience to truly understand how everything connects on a functional level. My first project here is a multi-page static website, and I'm planning to explore a Django framework project next.
